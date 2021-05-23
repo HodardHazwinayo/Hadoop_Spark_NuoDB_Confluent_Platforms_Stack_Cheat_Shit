@@ -1,2 +1,1 @@
-# Hadoop_Spark_NuoDB_Confluent_Platforms_Stack_Cheat_Shit
-Hadoop Spark NuoDB Confluent Platforms Stack
+Test for cheat chit
